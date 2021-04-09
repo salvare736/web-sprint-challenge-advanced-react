@@ -15,7 +15,7 @@ test("form shows success message on submit with form details", () => {
 
     const firstName = 'Jimmy';
     const lastName = 'Neutron';
-    const address = '1234 science dr';
+    const address = '1234 Science Dr';
     const city = 'Moon';
     const state = 'MA';
     const zip = '12345';
